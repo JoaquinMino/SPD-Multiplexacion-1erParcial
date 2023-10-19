@@ -1,9 +1,9 @@
 # SPD-Multiplexacion-1erParcial-3ra Parte
 ![Arduino](https://github.com/JoaquinMino/SPD-Multiplexacion-1erParcial/assets/138269439/ad7078e8-d4a6-4268-b0ff-c31507fcf889)
 # Integrantes
-Joaquin Miño
-Lucas Matías Rodas Arce
-Orlando Federico Villegas Montenegro
+- Joaquin Miño
+- Lucas Matías Rodas Arce
+- Orlando Federico Villegas Montenegro
 # Proyecto: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
 ![Multiplexacion](https://github.com/JoaquinMino/SPD-Multiplexacion-1erParcial/assets/138269439/fff46b19-a0e1-490e-b9a6-7472779ce89c)
 # Funcion Principal
